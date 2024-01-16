@@ -2,7 +2,8 @@
 # Optimization of Transcription Factor Search Times
 
 ## Overview
-This repository contains the comprehensive work of Hasif Ahmed's physics thesis, focusing on the dynamics of transcription factor search times. Through a comparative analysis, this thesis explores both classical diffusion models (1D and 3D) and facilitated diffusion mechanisms.
+This repository contains the comprehensive work of Hasif Ahmed's physics thesis, focusing on the dynamics of transcription factor search times. Through a comparative analysis, this thesis explores both classical diffusion models (1D and 3D) and facilitated diffusion mechanisms. The work can be accessed [here](https://github.com/hasifnumerics/Physics-Thesis-on-Facilitated-Diffusion/blob/53074922a8456ad15ed79c68cc65bb34123a2d69/Hasif_Ahmed_Physics_Thesis%20(1).pdf).
+
 
 ## Key Findings
 - Demonstrated that facilitated diffusion significantly accelerates transcription factor search times compared to classical diffusion models.
